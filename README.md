@@ -8,4 +8,4 @@ To be able to run Phase 2 (enabling faculty profiles using MongoDB), the followi
 2. PHP-MongoDB Driver (PECL Version 1.9.1 for PHP 8.0.3)
 3. Composer (to use the MongoDB-PHP Library)
 <br><br>
-This project is the result of a joint effort between Vikram Setty & Parnavi Shrikhande
+<h5>This project is the result of a joint effort between Vikram Setty & Parnavi Shrikhande</h5>
